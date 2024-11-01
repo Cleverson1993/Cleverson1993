@@ -1,4 +1,7 @@
 ## Olá!! Sou o Cleverson 🙋
+Sou do Paraná, seguidor de Jesus Cristo e buscando me formar para servir pessoas.
+
+Gosto de futebol⚽, ouvir música🎼 e ler📔.
 
 
 
@@ -18,9 +21,6 @@
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleverson1993&show_icons=true&theme=transparent)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverson1993&hide_progress=true)
-
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Cleverson1993/github-readme-stats)
 
 
 
